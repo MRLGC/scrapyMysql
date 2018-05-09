@@ -21,6 +21,7 @@ param:<br>
 * `itemclassname`:str, item object class name that you defined in the scrapy item file
 * `tablename`:str, the name of the table which item stored
 * `filter`:list,this is option, you can use the table column name as the filter condition
+
 then you can use this package in your pipeline file:<br>
 ```
 from scrapyMysql import PiplineMysql
