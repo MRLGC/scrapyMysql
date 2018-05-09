@@ -4,11 +4,10 @@ import sys
 
 setup(  
     name="scrapyMysql",  
-    version="0.1.1",  
+    version="0.1.2",  
     author="Lgchaos",  
     author_email="984684973@qq.com",  
-    description="make scrapy store data into mysql easier",  
-    long_description=open("README.md").read(),  
+    description="make scrapy store data into mysql easier",   
     license="MIT",  
     url="https://github.com/MRLGC/scrapyMysql",  
     packages=['scrapyMysql'],  
