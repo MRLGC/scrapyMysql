@@ -32,4 +32,4 @@ class ScrapysqlitemPipeline(PiplineMysql):
         query.addErrback(self.handle_error)
         return item
 ```
-now you can force to write your scrapy spiders
+now you can foce on write your scrapy spiders
