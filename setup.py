@@ -20,7 +20,7 @@ setup(
         'incremental==17.5.0',
         'mysql-connector==2.1.6',
         'six==1.11.0',
-        'Twisted==18.4.0',
+        'Twisted==22.10.0',
         'zope.interface==4.5.0',
         ],
     keywords = 'scrapy',  
